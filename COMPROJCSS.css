@@ -13,7 +13,7 @@ p{
     font-size: 96%
 }
 
-p {
+.body {
   width: 450px;
   left: 300px;
 }
