@@ -16,6 +16,8 @@ p{
 .body {
   width: 300px;
   left: 300px;
+  overflow-x: hidden;
+  padding: 8px 0;
 }
 
 .sidenav {
