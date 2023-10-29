@@ -18,12 +18,12 @@ p {
 }
 
 .sidenav {
-  width: 200px;
+  width: 220px;
   position: fixed;
   z-index: 1;
   top: 100px;
   left: 10px;
-  background: #eee;
+  background: rgb(141, 143, 196);
   overflow-x: hidden;
   padding: 8px 0;
 }
@@ -32,7 +32,7 @@ p {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
-  color: #2196F3;
+  color: #e6e9ec;
   display: block;
 }
 
