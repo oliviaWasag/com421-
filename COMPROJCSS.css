@@ -20,26 +20,30 @@ p{
   padding: 8px 0;
 }
 
+/* Add a black background color to the top navigation */
 .topnav {
-  width: 220px;
-  position: fixed;
-  z-index: 1;
-  top: 100px;
-  left: 10px;
-  background: rgb(141, 143, 196);
-  overflow-x: hidden;
-  padding: 8px 0;
+  background-color: honeydew;
+  overflow: hidden;
 }
 
+/* Style the links inside the navigation bar */
 .topnav a {
-  padding: 6px 8px 6px 16px;
+  float: left;
+  color: rgb(141, 143, 196);
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
-  color: honeydew;
-  display: block;
+  font-size: 17px;
 }
 
+/* Change the color of links on hover */
 .topnav a:hover {
-  color: #064579;
+  background-color: #ddd;
+  color: black;
 }
 
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #9a50c8;
+  color: white;
+}
