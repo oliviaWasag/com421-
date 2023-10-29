@@ -18,26 +18,25 @@ p {
 }
 
 .sidenav {
-  height: 100%;
-  width: 160px;
+  width: 130px;
   position: fixed;
   z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: rgb(174, 148, 148);
+  top: 20px;
+  left: 10px;
+  background: #eee;
   overflow-x: hidden;
-  padding-top: 20px;
+  padding: 8px 0;
 }
 
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #0d2e33;
+  color: #2196F3;
   display: block;
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  color: #064579;
 }
 
