@@ -22,14 +22,14 @@ p{
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: honeydew;
+  background-color: rgb(141, 143, 196);
   overflow: hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: rgb(141, 143, 196);
+  color: honeydew;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
