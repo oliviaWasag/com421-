@@ -12,3 +12,7 @@ p{
     font-family: Libre Baskerville;
     font-size: 110%
 }
+
+textarea {
+  width: 200px;
+}
