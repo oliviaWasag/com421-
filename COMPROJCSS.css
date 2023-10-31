@@ -23,8 +23,8 @@ ol {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  
 }
+
 
 
 /* Add a black background color to the top navigation */
@@ -41,7 +41,7 @@ ol {
   float: top;
   color: honeydew;
   text-align: center;
-  padding: 10px 12px;
+  padding: 20px 24px;
   text-decoration: none;
   font-size: 17px;
 }
