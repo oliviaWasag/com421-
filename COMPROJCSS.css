@@ -48,8 +48,8 @@ ol {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: honeydew;
+  color: rgb(141, 143, 196);
 }
 
 aside {
