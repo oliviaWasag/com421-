@@ -31,7 +31,7 @@ p{
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: top;
   color: honeydew;
   text-align: center;
   padding: 10px 12px;
