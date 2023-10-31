@@ -38,7 +38,7 @@ p{
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: rgb(141, 143, 196);
+  background-color: #ddd;
   color: black;
 }
 
@@ -48,6 +48,6 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+  background-color: rgb(141, 143, 196);
 }
 
