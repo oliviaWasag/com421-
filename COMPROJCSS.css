@@ -20,6 +20,7 @@ p{
   padding: 8px 0;
 }
 ol {
+  display: inline;
   list-style-type: none;
   margin: 0;
   padding: 0;
