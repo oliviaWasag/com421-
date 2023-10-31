@@ -22,7 +22,7 @@ p{
 
 /* Add a black background color to the top navigation */
 .topnav {
-  float: left;
+  float: top;
   display: block;
   background-color: rgb(141, 143, 196);
   text-decoration: none;
