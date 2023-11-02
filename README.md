@@ -14,12 +14,16 @@ My Self-Critque:
 Table of Contents
 
 ComP1 - Home Page 
+
   Data - How to organize and analyze research data
+  
   Research - Realistic Research: University, Web-based, and Local Resources
+  
   You can read my code online or download the zip file and run it locally on your PC. 
 
 
 Usage
+
   This Website is designed for IIT students alike trying to learn how to write professional research papers. The step-by-step walk-throughs   help guide the students towards their goals.
 
 
